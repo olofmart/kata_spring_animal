@@ -4,6 +4,7 @@ import ru.olmart.app.config.AppConfig;
 import ru.olmart.app.model.AnimalsCage;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import ru.olmart.app.model.Timer;
 
 public class Application {
 
